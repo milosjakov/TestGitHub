@@ -1,0 +1,5 @@
+This is text file about GitHub.
+It is very helpful about GitHub.
+It explains how to use Git and
+the bare functions in Git(add, commit
+ push pull clone etc.).
